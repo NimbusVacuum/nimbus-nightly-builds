@@ -1,4 +1,4 @@
-## Valetudo nightly (2022-10-09T03:10:19.111Z)
+## Valetudo nightly (2022-10-10T03:06:58.284Z)
 ### Breaking Changes
 
 - **mqtt**: Provide better error information [`da6994a`](https://github.com/Hypfer/Valetudo/commit/da6994a34de68654a35daf9819936fa20cc12539)
