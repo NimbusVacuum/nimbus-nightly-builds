@@ -1,10 +1,11 @@
-## Valetudo nightly (2022-10-10T03:06:58.284Z)
+## Valetudo nightly (2022-10-11T03:08:13.236Z)
 ### Breaking Changes
 
 - **mqtt**: Provide better error information [`da6994a`](https://github.com/Hypfer/Valetudo/commit/da6994a34de68654a35daf9819936fa20cc12539)
 
 ### Features
 
+- **vendor.dreame**: Operation mode control [`aefa436`](https://github.com/Hypfer/Valetudo/commit/aefa436dafb590ba13c8d1fd36751d6918d5a93f)
 - **vendor.dreame**: D9 Pro+ special edition support [`ffbcb73`](https://github.com/Hypfer/Valetudo/commit/ffbcb736e45ad156be67b8565d1f6e1a9e1c93e0)
 - **vendor.dreame**: Mop Stuff [`0081cba`](https://github.com/Hypfer/Valetudo/commit/0081cbaad4be58e3a0d220408f211f013e776cc0)
 - **ui**: Allow configuration of optional exposable capabilities for mqtt [`3f31186`](https://github.com/Hypfer/Valetudo/commit/3f31186fd0bf8578252b47dab586525a0b6b1c96)
@@ -19,6 +20,7 @@
 
 ### Fixes
 
+- **vendor.dreame**: Handle carpet information in maps [`d1ad1af`](https://github.com/Hypfer/Valetudo/commit/d1ad1aff916ddce260dbd65f231149c3ae8687fc)
 - **ui**: Strip even more characters that home assistant doesn't like from all mqtt topic building blocks [`5877381`](https://github.com/Hypfer/Valetudo/commit/587738132a2d7a5bb4c8b4ca0b60d001f50a550a)
 - **vendor.dreame**: Voicepack hash must be lowercase [`0deff82`](https://github.com/Hypfer/Valetudo/commit/0deff822f29962eab2afea92b7e881c31b386397)
 - **ui**: Weekday order should be ISO 8601 compliant [`3c884f5`](https://github.com/Hypfer/Valetudo/commit/3c884f58c424f7e173815bc2a1f89bd7bdbdd95f)
