@@ -1,10 +1,11 @@
-## Valetudo nightly (2022-10-12T03:03:56.316Z)
+## Valetudo nightly (2022-10-12T17:52:49.085Z)
 ### Breaking Changes
 
 - **mqtt**: Provide better error information [`da6994a`](https://github.com/Hypfer/Valetudo/commit/da6994a34de68654a35daf9819936fa20cc12539)
 
 ### Features
 
+- **vendor.dreame**: Newer 1C firmwares do seem to support no mop zones [`a06a86d`](https://github.com/Hypfer/Valetudo/commit/a06a86d3e542429232714dc932702bf2a0703c74)
 - **vendor.dreame**: Operation mode control [`aefa436`](https://github.com/Hypfer/Valetudo/commit/aefa436dafb590ba13c8d1fd36751d6918d5a93f)
 - **vendor.dreame**: D9 Pro+ special edition support [`ffbcb73`](https://github.com/Hypfer/Valetudo/commit/ffbcb736e45ad156be67b8565d1f6e1a9e1c93e0)
 - **vendor.dreame**: Mop Stuff [`0081cba`](https://github.com/Hypfer/Valetudo/commit/0081cbaad4be58e3a0d220408f211f013e776cc0)
