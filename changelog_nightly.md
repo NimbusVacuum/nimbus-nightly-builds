@@ -1,4 +1,4 @@
-## Valetudo nightly (2022-10-12T17:52:49.085Z)
+## Valetudo nightly (2022-10-13T03:03:45.854Z)
 ### Breaking Changes
 
 - **mqtt**: Provide better error information [`da6994a`](https://github.com/Hypfer/Valetudo/commit/da6994a34de68654a35daf9819936fa20cc12539)
@@ -33,6 +33,7 @@
 
 ### Chores
 
+- Bump github actions to setup-node@v3 [`4dbb745`](https://github.com/Hypfer/Valetudo/commit/4dbb745e00538f2e3be8d2275413c68230c02701)
 - bump upx dependency [`38fb6e4`](https://github.com/Hypfer/Valetudo/commit/38fb6e43eff6b158b1d18e09259910d2341758b0)
 - Revert axios bump due to broken builds [`c3de7e5`](https://github.com/Hypfer/Valetudo/commit/c3de7e505b2a9ea3e0323e4131197a34ed0a24fc)
 - Bump dependencies [`cefd3a7`](https://github.com/Hypfer/Valetudo/commit/cefd3a77196cc1b151551e3eef910ffe5d99c377)
