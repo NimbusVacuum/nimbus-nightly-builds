@@ -1,4 +1,4 @@
-## Valetudo nightly (2022-10-13T03:03:45.854Z)
+## Valetudo nightly (2022-10-14T03:05:26.811Z)
 ### Breaking Changes
 
 - **mqtt**: Provide better error information [`da6994a`](https://github.com/Hypfer/Valetudo/commit/da6994a34de68654a35daf9819936fa20cc12539)
@@ -21,6 +21,7 @@
 
 ### Fixes
 
+- **vendor.dreame**: 1C error codes might occasionally be numbers [`93fdfb9`](https://github.com/Hypfer/Valetudo/commit/93fdfb927f0fbbba1b5eabcc15a3a858d97281d3)
 - Hide non-functional Wi-Fi configuration editor if not supported [`fbcfd47`](https://github.com/Hypfer/Valetudo/commit/fbcfd47051af37d17d8de7640adb318620dc8790)
 - **vendor.dreame**: Handle carpet information in maps [`d1ad1af`](https://github.com/Hypfer/Valetudo/commit/d1ad1aff916ddce260dbd65f231149c3ae8687fc)
 - **ui**: Strip even more characters that home assistant doesn't like from all mqtt topic building blocks [`5877381`](https://github.com/Hypfer/Valetudo/commit/587738132a2d7a5bb4c8b4ca0b60d001f50a550a)
