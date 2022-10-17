@@ -1,4 +1,4 @@
-## Valetudo nightly (2022-10-16T03:05:55.598Z)
+## Valetudo nightly (2022-10-17T03:07:58.574Z)
 ### Breaking Changes
 
 - **mqtt**: Provide better error information [`da6994a`](https://github.com/Hypfer/Valetudo/commit/da6994a34de68654a35daf9819936fa20cc12539)
@@ -21,6 +21,7 @@
 
 ### Fixes
 
+- **vendor.dreame**: Fix generational differences in operation mode mapping [`8b6643c`](https://github.com/Hypfer/Valetudo/commit/8b6643c978b979aaddfa5806ac5cfba130f441e8)
 - **vendor.dreame**: 1C error codes might occasionally be numbers [`93fdfb9`](https://github.com/Hypfer/Valetudo/commit/93fdfb927f0fbbba1b5eabcc15a3a858d97281d3)
 - Hide non-functional Wi-Fi configuration editor if not supported [`fbcfd47`](https://github.com/Hypfer/Valetudo/commit/fbcfd47051af37d17d8de7640adb318620dc8790)
 - **vendor.dreame**: Handle carpet information in maps [`d1ad1af`](https://github.com/Hypfer/Valetudo/commit/d1ad1aff916ddce260dbd65f231149c3ae8687fc)
@@ -34,6 +35,7 @@
 
 ### Chores
 
+- **mqtt**: Minor cleanup [`d27b189`](https://github.com/Hypfer/Valetudo/commit/d27b18932ae2f3d35cadd21614fd4336c6ac620f)
 - Bump github actions to setup-node@v3 [`4dbb745`](https://github.com/Hypfer/Valetudo/commit/4dbb745e00538f2e3be8d2275413c68230c02701)
 - bump upx dependency [`38fb6e4`](https://github.com/Hypfer/Valetudo/commit/38fb6e43eff6b158b1d18e09259910d2341758b0)
 - Revert axios bump due to broken builds [`c3de7e5`](https://github.com/Hypfer/Valetudo/commit/c3de7e505b2a9ea3e0323e4131197a34ed0a24fc)
