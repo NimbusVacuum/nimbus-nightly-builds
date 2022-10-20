@@ -1,13 +1,13 @@
 {
-  "timestamp": "2022-10-19T03:04:42.237Z",
+  "timestamp": "2022-10-20T03:04:26.504Z",
   "version": "nightly",
   "sha256sums": {
-    "valetudo-armv7": "6c7e656a11a9a43803e5a09bd7955ba54bc22e3b6ce868a7d472f9d41f3a931a",
-    "valetudo-armv7-lowmem": "d33f53f2cff390ef90e3dc164c53b40d3de33a6e1d6d3f7a3020c06823e74036",
-    "valetudo-aarch64": "6ea07f928baacee159477cddca7e02978adb5bfee1efa94ae35c7f6ca97f13f6",
-    "valetudo-armv7.upx": "0d00fd44e8d0001d9a1f35110505b08ea68458d6edf9b25408677aa18aa593e7",
-    "valetudo-armv7-lowmem.upx": "1948f6057bfe18cf38c6eba9334e8bc972ceb4bf768ab9505729a6900e8aca26",
-    "valetudo-aarch64.upx": "865d6e54d93f1f2effe255182f7f0444345ca69fa253a564d1305cb3ccc3d706"
+    "valetudo-armv7": "c15be77833d8a2eba9cbc39be4a5353b7116b5d72b6ed63dec9ea87d10dc6299",
+    "valetudo-armv7-lowmem": "9ea0dd28a1605152cfb37a5301c6190991c484f2f993c7516b0b15d0bf817e41",
+    "valetudo-aarch64": "31ed1423a50c59377a3fbf9bb49b59f7a1a1ceb742d1308b50ae28e47feefd28",
+    "valetudo-armv7.upx": "4481bd878e9dad02cc66a27a5265a621263823124a1d92161668547023c2fe3a",
+    "valetudo-armv7-lowmem.upx": "19ee9927b67babf88e31a621cc962b83524358855ea503fd74e07beda0afb4a2",
+    "valetudo-aarch64.upx": "a21abd0e2852663dbfdbf5e71dd5b4d8e7e8e5e45f6759caf4cc7b85ff09c54b"
   },
-  "changelog": "## Valetudo nightly (2022-10-19T03:04:41.719Z)\n\n### Features\n\n- **ui**: Provide some feedback on virtual restriction save [`e685e3e`](https://github.com/Hypfer/Valetudo/commit/e685e3e54857215acb95216999b928d72d61185e)\n"
+  "changelog": "## Valetudo nightly (2022-10-20T03:04:26.024Z)\n\n### Features\n\n- **updater**: Attempt to use upx in low storage situations [`4227918`](https://github.com/Hypfer/Valetudo/commit/42279189051c196b827dc8dbb63339d219baa784)\n- **ui**: Provide some feedback on virtual restriction save [`e685e3e`](https://github.com/Hypfer/Valetudo/commit/e685e3e54857215acb95216999b928d72d61185e)\n\n### Chores\n\n- **ui**: 75% battery should not be displayed in a warning color [`a5e1bc2`](https://github.com/Hypfer/Valetudo/commit/a5e1bc2541c2ca268b6de25b9d7790f01314b8d6)\n"
 }
