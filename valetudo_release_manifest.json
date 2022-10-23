@@ -1,13 +1,13 @@
 {
-  "timestamp": "2022-10-22T02:58:27.774Z",
+  "timestamp": "2022-10-23T03:02:24.103Z",
   "version": "nightly",
   "sha256sums": {
-    "valetudo-armv7": "c15be77833d8a2eba9cbc39be4a5353b7116b5d72b6ed63dec9ea87d10dc6299",
-    "valetudo-armv7-lowmem": "9ea0dd28a1605152cfb37a5301c6190991c484f2f993c7516b0b15d0bf817e41",
-    "valetudo-aarch64": "31ed1423a50c59377a3fbf9bb49b59f7a1a1ceb742d1308b50ae28e47feefd28",
-    "valetudo-armv7.upx": "4481bd878e9dad02cc66a27a5265a621263823124a1d92161668547023c2fe3a",
-    "valetudo-armv7-lowmem.upx": "19ee9927b67babf88e31a621cc962b83524358855ea503fd74e07beda0afb4a2",
-    "valetudo-aarch64.upx": "a21abd0e2852663dbfdbf5e71dd5b4d8e7e8e5e45f6759caf4cc7b85ff09c54b"
+    "valetudo-armv7": "5bf1149d585188bc04f932d739f408593446da908ca3b019ed0b8d7b336e4117",
+    "valetudo-armv7-lowmem": "191476835f6fb470f6f4ed09fc00fd76bebfc49378c9fd5df5552500854e64cf",
+    "valetudo-aarch64": "310c2bae0da6811e9cb62a525e5821799b9d660bd35874dce430f4c8821ef521",
+    "valetudo-armv7.upx": "788e37ee3c89bc379c7ccfdb84cb95457dd3646f308d5c5acf2f5c826088aaf1",
+    "valetudo-armv7-lowmem.upx": "dfcc27b40ede9b883579b6b0492b58f2a24c97c15728378094c48b94b388c47c",
+    "valetudo-aarch64.upx": "78bb62e2d672e5a680d440c14b39a09e4a3045429a53912588ee39197fa5e1d9"
   },
-  "changelog": "## Valetudo nightly (2022-10-22T02:58:27.362Z)\n\n### Features\n\n- **updater**: Attempt to use upx in low storage situations [`4227918`](https://github.com/Hypfer/Valetudo/commit/42279189051c196b827dc8dbb63339d219baa784)\n- **ui**: Provide some feedback on virtual restriction save [`e685e3e`](https://github.com/Hypfer/Valetudo/commit/e685e3e54857215acb95216999b928d72d61185e)\n\n### Chores\n\n- **ui**: 75% battery should not be displayed in a warning color [`a5e1bc2`](https://github.com/Hypfer/Valetudo/commit/a5e1bc2541c2ca268b6de25b9d7790f01314b8d6)\n"
+  "changelog": "## Valetudo nightly (2022-10-23T03:02:23.685Z)\n\n### Features\n\n- **updater**: Attempt to use upx in low storage situations [`4227918`](https://github.com/Hypfer/Valetudo/commit/42279189051c196b827dc8dbb63339d219baa784)\n- **ui**: Provide some feedback on virtual restriction save [`e685e3e`](https://github.com/Hypfer/Valetudo/commit/e685e3e54857215acb95216999b928d72d61185e)\n\n### Chores\n\n- **vendor.dreame**: Add test case map with left cutoff by firmware [`040d4fb`](https://github.com/Hypfer/Valetudo/commit/040d4fb2a616c36e572aaf536c1f2cc419a0d705)\n- **ui**: 75% battery should not be displayed in a warning color [`a5e1bc2`](https://github.com/Hypfer/Valetudo/commit/a5e1bc2541c2ca268b6de25b9d7790f01314b8d6)\n"
 }

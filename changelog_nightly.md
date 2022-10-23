@@ -1,4 +1,4 @@
-## Valetudo nightly (2022-10-22T02:58:27.362Z)
+## Valetudo nightly (2022-10-23T03:02:23.685Z)
 
 ### Features
 
@@ -7,4 +7,5 @@
 
 ### Chores
 
+- **vendor.dreame**: Add test case map with left cutoff by firmware [`040d4fb`](https://github.com/Hypfer/Valetudo/commit/040d4fb2a616c36e572aaf536c1f2cc419a0d705)
 - **ui**: 75% battery should not be displayed in a warning color [`a5e1bc2`](https://github.com/Hypfer/Valetudo/commit/a5e1bc2541c2ca268b6de25b9d7790f01314b8d6)
