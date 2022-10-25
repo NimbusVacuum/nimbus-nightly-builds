@@ -1,13 +1,13 @@
 {
-  "timestamp": "2022-10-24T03:05:35.400Z",
+  "timestamp": "2022-10-25T03:05:25.151Z",
   "version": "nightly",
   "sha256sums": {
-    "valetudo-armv7": "5bf1149d585188bc04f932d739f408593446da908ca3b019ed0b8d7b336e4117",
-    "valetudo-armv7-lowmem": "191476835f6fb470f6f4ed09fc00fd76bebfc49378c9fd5df5552500854e64cf",
-    "valetudo-aarch64": "310c2bae0da6811e9cb62a525e5821799b9d660bd35874dce430f4c8821ef521",
-    "valetudo-armv7.upx": "788e37ee3c89bc379c7ccfdb84cb95457dd3646f308d5c5acf2f5c826088aaf1",
-    "valetudo-armv7-lowmem.upx": "dfcc27b40ede9b883579b6b0492b58f2a24c97c15728378094c48b94b388c47c",
-    "valetudo-aarch64.upx": "78bb62e2d672e5a680d440c14b39a09e4a3045429a53912588ee39197fa5e1d9"
+    "valetudo-armv7": "72d39ab70ef7324132d008565bfc6d0b9fd97831e67473b74826359e0d2812cd",
+    "valetudo-armv7-lowmem": "0a6bae8d86eca4157b617ff160bab6e17b88759107ce44df9f0677e20d42aaea",
+    "valetudo-aarch64": "3469d81e7ad3942ed25bca058b69edad72bccb2970d54d20f27d7a9859c6d66b",
+    "valetudo-armv7.upx": "0dbcd47becb539c8ae953e1d5a2cf1a29f98f04b75823ad4b17b4a839a76e7ca",
+    "valetudo-armv7-lowmem.upx": "9b0eb8ca53d66dd5a34ff5d39b3c9fa5d0c0e1dea5d2e7d89c151c251067f4b0",
+    "valetudo-aarch64.upx": "f07ba0529affb338df471881ed696382ac08164de7b4024b4b8cbb32ba354c47"
   },
-  "changelog": "## Valetudo nightly (2022-10-24T03:05:35.021Z)\n\n### Features\n\n- **updater**: Attempt to use upx in low storage situations [`4227918`](https://github.com/Hypfer/Valetudo/commit/42279189051c196b827dc8dbb63339d219baa784)\n- **ui**: Provide some feedback on virtual restriction save [`e685e3e`](https://github.com/Hypfer/Valetudo/commit/e685e3e54857215acb95216999b928d72d61185e)\n\n### Chores\n\n- **vendor.dreame**: Add test case map with left cutoff by firmware [`040d4fb`](https://github.com/Hypfer/Valetudo/commit/040d4fb2a616c36e572aaf536c1f2cc419a0d705)\n- **ui**: 75% battery should not be displayed in a warning color [`a5e1bc2`](https://github.com/Hypfer/Valetudo/commit/a5e1bc2541c2ca268b6de25b9d7790f01314b8d6)\n"
+  "changelog": "## Valetudo nightly (2022-10-25T03:05:24.685Z)\n\n### Features\n\n- **vendor.dreame**: More mop stuff [`5a6d9d1`](https://github.com/Hypfer/Valetudo/commit/5a6d9d15dba3472a568812968b475ddbd0e17800)\n- **vendor.dreame**: Support for the L10 Plus [`5ec12d3`](https://github.com/Hypfer/Valetudo/commit/5ec12d373c55672909cafb3c3be41b8ce95cbc14)\n- **updater**: Attempt to use upx in low storage situations [`4227918`](https://github.com/Hypfer/Valetudo/commit/42279189051c196b827dc8dbb63339d219baa784)\n- **ui**: Provide some feedback on virtual restriction save [`e685e3e`](https://github.com/Hypfer/Valetudo/commit/e685e3e54857215acb95216999b928d72d61185e)\n\n### Chores\n\n- **build**: More heap for regular armv7 [`08ec8b7`](https://github.com/Hypfer/Valetudo/commit/08ec8b7c6444ffbfab7f73514259c19200f9e959)\n- **vendor.dreame**: Add test case map with left cutoff by firmware [`040d4fb`](https://github.com/Hypfer/Valetudo/commit/040d4fb2a616c36e572aaf536c1f2cc419a0d705)\n- **ui**: 75% battery should not be displayed in a warning color [`a5e1bc2`](https://github.com/Hypfer/Valetudo/commit/a5e1bc2541c2ca268b6de25b9d7790f01314b8d6)\n"
 }
