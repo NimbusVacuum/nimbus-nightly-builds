@@ -1,4 +1,4 @@
-## Valetudo nightly (2022-10-25T03:05:24.685Z)
+## Valetudo nightly (2022-10-26T02:54:21.753Z)
 
 ### Features
 
@@ -6,6 +6,10 @@
 - **vendor.dreame**: Support for the L10 Plus [`5ec12d3`](https://github.com/Hypfer/Valetudo/commit/5ec12d373c55672909cafb3c3be41b8ce95cbc14)
 - **updater**: Attempt to use upx in low storage situations [`4227918`](https://github.com/Hypfer/Valetudo/commit/42279189051c196b827dc8dbb63339d219baa784)
 - **ui**: Provide some feedback on virtual restriction save [`e685e3e`](https://github.com/Hypfer/Valetudo/commit/e685e3e54857215acb95216999b928d72d61185e)
+
+### Fixes
+
+- Fix incorrectly reported virtual restrictions [`c4d5df8`](https://github.com/Hypfer/Valetudo/commit/c4d5df8f78421d7254dd0a55ea610825552612e8)
 
 ### Chores
 
