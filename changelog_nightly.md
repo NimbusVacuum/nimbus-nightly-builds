@@ -1,7 +1,8 @@
-## Valetudo nightly (2022-10-26T02:54:21.753Z)
+## Valetudo nightly (2022-10-27T02:54:10.005Z)
 
 ### Features
 
+- **ui**: Render mapLayers to cropped imageData for better performance and less memory usage [`5bb3fae`](https://github.com/Hypfer/Valetudo/commit/5bb3fae055d9878f05a162cc41485b72458d5040)
 - **vendor.dreame**: More mop stuff [`5a6d9d1`](https://github.com/Hypfer/Valetudo/commit/5a6d9d15dba3472a568812968b475ddbd0e17800)
 - **vendor.dreame**: Support for the L10 Plus [`5ec12d3`](https://github.com/Hypfer/Valetudo/commit/5ec12d373c55672909cafb3c3be41b8ce95cbc14)
 - **updater**: Attempt to use upx in low storage situations [`4227918`](https://github.com/Hypfer/Valetudo/commit/42279189051c196b827dc8dbb63339d219baa784)
