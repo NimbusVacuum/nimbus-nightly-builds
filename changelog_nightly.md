@@ -1,7 +1,8 @@
-## Valetudo nightly (2022-10-29T02:52:06.167Z)
+## Valetudo nightly (2022-10-29T11:09:37.229Z)
 
 ### Features
 
+- **ui**: Limit wifi scan results [`552e312`](https://github.com/Hypfer/Valetudo/commit/552e3126ef7af0b0ccdf6610e49d9e77c13054e4)
 - **ui**: WiFiScanCapability support for the provisioning page [`9a8691c`](https://github.com/Hypfer/Valetudo/commit/9a8691c99799aac1adcf5390a3064978988025d8)
 - **ui**: Cache layers in render worker for improved performance [`3c9b469`](https://github.com/Hypfer/Valetudo/commit/3c9b469373e9d42a0e98b341f0762dd2eba95522)
 - **vendor.dreame**: Some dreames allow for more than one zone [`f7ff27c`](https://github.com/Hypfer/Valetudo/commit/f7ff27ca9d7bb4db02792894037c2455bacb6018)
@@ -14,6 +15,8 @@
 
 ### Fixes
 
+- **miio**: Fix deviceID being changed to an invalid value [`3a1582d`](https://github.com/Hypfer/Valetudo/commit/3a1582d7b34c5113b1cadb2f478c354fe272c192)
+- **ui**: Add workaround for DOMMatrix.invertSelf() issues with Chrome 107++ [`46ed757`](https://github.com/Hypfer/Valetudo/commit/46ed75737c6aab8d1803bbd2479f39b0f20a4990)
 - **ui**: Reset preset slider if value wasn't applied after 1s [`c6cbdc2`](https://github.com/Hypfer/Valetudo/commit/c6cbdc22e9dc2e33c23c4a48ecf22f4bd836ca14)
 - Fix incorrectly reported virtual restrictions [`c4d5df8`](https://github.com/Hypfer/Valetudo/commit/c4d5df8f78421d7254dd0a55ea610825552612e8)
 
