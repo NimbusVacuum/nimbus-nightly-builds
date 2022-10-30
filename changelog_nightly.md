@@ -1,4 +1,4 @@
-## Valetudo nightly (2022-10-29T11:09:37.229Z)
+## Valetudo nightly (2022-10-30T03:00:21.211Z)
 
 ### Features
 
@@ -15,6 +15,8 @@
 
 ### Fixes
 
+- **ui**: Reduce network scan result confusion [`460b8e0`](https://github.com/Hypfer/Valetudo/commit/460b8e01d67d83edb6c3db8ee52e50ef23a7e397)
+- **ui**: Fix vanishing final wifi provisioning dialog [`91dc5c1`](https://github.com/Hypfer/Valetudo/commit/91dc5c122c91312a75fdeae52532c7f9c95d7beb)
 - **miio**: Fix deviceID being changed to an invalid value [`3a1582d`](https://github.com/Hypfer/Valetudo/commit/3a1582d7b34c5113b1cadb2f478c354fe272c192)
 - **ui**: Add workaround for DOMMatrix.invertSelf() issues with Chrome 107++ [`46ed757`](https://github.com/Hypfer/Valetudo/commit/46ed75737c6aab8d1803bbd2479f39b0f20a4990)
 - **ui**: Reset preset slider if value wasn't applied after 1s [`c6cbdc2`](https://github.com/Hypfer/Valetudo/commit/c6cbdc22e9dc2e33c23c4a48ecf22f4bd836ca14)
