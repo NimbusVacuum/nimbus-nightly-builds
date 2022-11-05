@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-11-04T02:52:14.932Z",
+  "timestamp": "2022-11-05T02:48:10.897Z",
   "version": "nightly",
   "sha256sums": {
     "valetudo-armv7": "6e7833861645af10a5940d51053d7079561debce60b69e7296df707fcd68672a",
@@ -9,5 +9,5 @@
     "valetudo-armv7-lowmem.upx": "8af3af47ec3191c676b2e89ef18e24a9a5aabd8673c0b405a68b56dcb9b6dc02",
     "valetudo-aarch64.upx": "dc4ee722473d7688286b3e2999db1662058cf1afe9b701e5fa7edcbf59497988"
   },
-  "changelog": "## Valetudo nightly (2022-11-04T02:52:14.529Z)\n\n### Features\n\n- **ui**: remove redundant first confirmation dialog for fetching updates [`4d01657`](https://github.com/Hypfer/Valetudo/commit/4d01657e9cf196bda0b44fb3b051853c9fecdf6a)\n\n### Fixes\n\n- **miio**: Protect against invalid Wi-Fi passwords [`4c873b7`](https://github.com/Hypfer/Valetudo/commit/4c873b71827c9bf8830fc30b7a6d6ee4d1aae2ca)\n- **mqtt**: Make sure that we only refresh handles while we're connected [`67e66a0`](https://github.com/Hypfer/Valetudo/commit/67e66a0ee38007fbe9a2e9dabedecb525ac9f266)\n\n### Chores\n\n- Add hint regarding maps and reboots to the updater [`69b0ae7`](https://github.com/Hypfer/Valetudo/commit/69b0ae7aafb9c3621f7c10d0b3ffbcbbc637bd6b)\n"
+  "changelog": "## Valetudo nightly (2022-11-05T02:48:10.403Z)\n\n### Features\n\n- **ui**: remove redundant first confirmation dialog for fetching updates [`4d01657`](https://github.com/Hypfer/Valetudo/commit/4d01657e9cf196bda0b44fb3b051853c9fecdf6a)\n\n### Fixes\n\n- **miio**: Protect against invalid Wi-Fi passwords [`4c873b7`](https://github.com/Hypfer/Valetudo/commit/4c873b71827c9bf8830fc30b7a6d6ee4d1aae2ca)\n- **mqtt**: Make sure that we only refresh handles while we're connected [`67e66a0`](https://github.com/Hypfer/Valetudo/commit/67e66a0ee38007fbe9a2e9dabedecb525ac9f266)\n\n### Chores\n\n- Add hint regarding maps and reboots to the updater [`69b0ae7`](https://github.com/Hypfer/Valetudo/commit/69b0ae7aafb9c3621f7c10d0b3ffbcbbc637bd6b)\n"
 }
