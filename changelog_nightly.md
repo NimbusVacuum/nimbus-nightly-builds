@@ -1,4 +1,4 @@
-## Valetudo nightly (2022-11-06T02:49:30.616Z)
+## Valetudo nightly (2022-11-07T02:47:37.517Z)
 
 ### Features
 
@@ -11,4 +11,5 @@
 
 ### Chores
 
+- minor cleanup [`79229f9`](https://github.com/Hypfer/Valetudo/commit/79229f99f690358488d7f97db1fbe8ee6f4711c5)
 - Add hint regarding maps and reboots to the updater [`69b0ae7`](https://github.com/Hypfer/Valetudo/commit/69b0ae7aafb9c3621f7c10d0b3ffbcbbc637bd6b)

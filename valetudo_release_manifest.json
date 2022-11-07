@@ -1,13 +1,13 @@
 {
-  "timestamp": "2022-11-06T02:49:31.026Z",
+  "timestamp": "2022-11-07T02:47:37.949Z",
   "version": "nightly",
   "sha256sums": {
-    "valetudo-armv7": "6e7833861645af10a5940d51053d7079561debce60b69e7296df707fcd68672a",
-    "valetudo-armv7-lowmem": "1a76c8972efe3eb23226dd77873943abe94f87073a1170ef8fb0869a39a23adc",
-    "valetudo-aarch64": "f1d4cbd0a4fa0628f583b07474211febe63bb66eb124a199480933501e1517f4",
-    "valetudo-armv7.upx": "4c4df49c4924ea6d70e925ed9b401f427540030fec9c276d447cb04ba59392f3",
-    "valetudo-armv7-lowmem.upx": "8af3af47ec3191c676b2e89ef18e24a9a5aabd8673c0b405a68b56dcb9b6dc02",
-    "valetudo-aarch64.upx": "dc4ee722473d7688286b3e2999db1662058cf1afe9b701e5fa7edcbf59497988"
+    "valetudo-armv7": "30300485023a1552979af0635f9fb5f9dc648364626ef7766de7f5e8c9a82fa9",
+    "valetudo-armv7-lowmem": "b8c6ff5427068971061c8c367b934a8e7503223f6facfa31ec1b0b789526db7e",
+    "valetudo-aarch64": "d596bb35baf574bafd1389b25cca69fde8b24203b0fcea1a0f5d2e53b6fa82c2",
+    "valetudo-armv7.upx": "2785c082f62f55c2a828fef53ca81f5950de944882ce8005a91fb4e9dba94ae6",
+    "valetudo-armv7-lowmem.upx": "43f21c3dcbad886d57ce5574f438c6e7df4e6f34cad0051d7c63c403eee9c31a",
+    "valetudo-aarch64.upx": "3ccfe9c81e1124d554ca7505f9ccdde64b2825f3a4a579b577bf981fe9a20b3a"
   },
-  "changelog": "## Valetudo nightly (2022-11-06T02:49:30.616Z)\n\n### Features\n\n- **ui**: remove redundant first confirmation dialog for fetching updates [`4d01657`](https://github.com/Hypfer/Valetudo/commit/4d01657e9cf196bda0b44fb3b051853c9fecdf6a)\n\n### Fixes\n\n- **miio**: Protect against invalid Wi-Fi passwords [`4c873b7`](https://github.com/Hypfer/Valetudo/commit/4c873b71827c9bf8830fc30b7a6d6ee4d1aae2ca)\n- **mqtt**: Make sure that we only refresh handles while we're connected [`67e66a0`](https://github.com/Hypfer/Valetudo/commit/67e66a0ee38007fbe9a2e9dabedecb525ac9f266)\n\n### Chores\n\n- Add hint regarding maps and reboots to the updater [`69b0ae7`](https://github.com/Hypfer/Valetudo/commit/69b0ae7aafb9c3621f7c10d0b3ffbcbbc637bd6b)\n"
+  "changelog": "## Valetudo nightly (2022-11-07T02:47:37.517Z)\n\n### Features\n\n- **ui**: remove redundant first confirmation dialog for fetching updates [`4d01657`](https://github.com/Hypfer/Valetudo/commit/4d01657e9cf196bda0b44fb3b051853c9fecdf6a)\n\n### Fixes\n\n- **miio**: Protect against invalid Wi-Fi passwords [`4c873b7`](https://github.com/Hypfer/Valetudo/commit/4c873b71827c9bf8830fc30b7a6d6ee4d1aae2ca)\n- **mqtt**: Make sure that we only refresh handles while we're connected [`67e66a0`](https://github.com/Hypfer/Valetudo/commit/67e66a0ee38007fbe9a2e9dabedecb525ac9f266)\n\n### Chores\n\n- minor cleanup [`79229f9`](https://github.com/Hypfer/Valetudo/commit/79229f99f690358488d7f97db1fbe8ee6f4711c5)\n- Add hint regarding maps and reboots to the updater [`69b0ae7`](https://github.com/Hypfer/Valetudo/commit/69b0ae7aafb9c3621f7c10d0b3ffbcbbc637bd6b)\n"
 }
