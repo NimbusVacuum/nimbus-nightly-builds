@@ -1,7 +1,8 @@
-## Valetudo nightly (2022-11-12T02:44:46.487Z)
+## Valetudo nightly (2022-11-12T08:36:27.864Z)
 
 ### Features
 
+- **vendor.3ir**: Introduce common 3irobotix map parser [`8f5013a`](https://github.com/Hypfer/Valetudo/commit/8f5013a743a50e168f725372dc9ddc82ec4a332c)
 - **vendor.viomi**: Track active segments [`56b0bf6`](https://github.com/Hypfer/Valetudo/commit/56b0bf66da6a0d3cf08e20760bcbfdb4102f7d74)
 - **vendor.viomi**: Refactoring, fixes and tests [`7882db4`](https://github.com/Hypfer/Valetudo/commit/7882db41a1912aad028a4d48e60877abf6f6615a)
 - **ui**: remove redundant first confirmation dialog for fetching updates [`4d01657`](https://github.com/Hypfer/Valetudo/commit/4d01657e9cf196bda0b44fb3b051853c9fecdf6a)

@@ -1,13 +1,13 @@
 {
-  "timestamp": "2022-11-12T02:44:46.919Z",
+  "timestamp": "2022-11-12T08:36:28.298Z",
   "version": "nightly",
   "sha256sums": {
-    "valetudo-armv7": "28e11da407f8f41b7f564fe253ff058aa590d38b5c2469e9698592accb21b3b6",
-    "valetudo-armv7-lowmem": "189dbbb3737a5df20aad758bc964b9a85eae4e76a9edf6345119954d2899f2e8",
-    "valetudo-aarch64": "449f08342b9cf8525eb07c068ce7d0f317c26bd41466256e44f67cc8b63bb97b",
-    "valetudo-armv7.upx": "bf2f6f9fe5f2010dee22e04c13898a68b5419b140d53e411ef92990d2d989067",
-    "valetudo-armv7-lowmem.upx": "57f9f3dea0ff5ac2684d697b552884c58479cbc997e2c5d7f747776b4b4d2af7",
-    "valetudo-aarch64.upx": "6a48c219395280da9c079a194009f9fe5bdf7a078baa89e86bc8c7b0ab930549"
+    "valetudo-armv7": "6022b004c095933b25f24dc76ff88a8c37fe1efc0ca83f7bb6d5c6347e015e4d",
+    "valetudo-armv7-lowmem": "d1cd6ba8787923c04a3d837ce908cc57f1a1fad1f9d332ce4ba6cef2d504d173",
+    "valetudo-aarch64": "191e1e00f595fef73cea99877da9dfa7921412170b502862839404cae4f5d0c3",
+    "valetudo-armv7.upx": "01e56486782f75f079b486a6338260d36d3ff6ad7138f305feec69d59508bb65",
+    "valetudo-armv7-lowmem.upx": "ab8470dcc39922145104b02d7e15eebb6fd7f753ec3987e384ad20bccf0a7107",
+    "valetudo-aarch64.upx": "df04060a200489c56a952dffd2fe35d6aec97ca9a6b3025dc57d881622c66d40"
   },
-  "changelog": "## Valetudo nightly (2022-11-12T02:44:46.487Z)\n\n### Features\n\n- **vendor.viomi**: Track active segments [`56b0bf6`](https://github.com/Hypfer/Valetudo/commit/56b0bf66da6a0d3cf08e20760bcbfdb4102f7d74)\n- **vendor.viomi**: Refactoring, fixes and tests [`7882db4`](https://github.com/Hypfer/Valetudo/commit/7882db41a1912aad028a4d48e60877abf6f6615a)\n- **ui**: remove redundant first confirmation dialog for fetching updates [`4d01657`](https://github.com/Hypfer/Valetudo/commit/4d01657e9cf196bda0b44fb3b051853c9fecdf6a)\n\n### Fixes\n\n- **miio**: Protect against invalid Wi-Fi passwords [`4c873b7`](https://github.com/Hypfer/Valetudo/commit/4c873b71827c9bf8830fc30b7a6d6ee4d1aae2ca)\n- **mqtt**: Make sure that we only refresh handles while we're connected [`67e66a0`](https://github.com/Hypfer/Valetudo/commit/67e66a0ee38007fbe9a2e9dabedecb525ac9f266)\n\n### Chores\n\n- minor cleanup [`79229f9`](https://github.com/Hypfer/Valetudo/commit/79229f99f690358488d7f97db1fbe8ee6f4711c5)\n- Add hint regarding maps and reboots to the updater [`69b0ae7`](https://github.com/Hypfer/Valetudo/commit/69b0ae7aafb9c3621f7c10d0b3ffbcbbc637bd6b)\n"
+  "changelog": "## Valetudo nightly (2022-11-12T08:36:27.864Z)\n\n### Features\n\n- **vendor.3ir**: Introduce common 3irobotix map parser [`8f5013a`](https://github.com/Hypfer/Valetudo/commit/8f5013a743a50e168f725372dc9ddc82ec4a332c)\n- **vendor.viomi**: Track active segments [`56b0bf6`](https://github.com/Hypfer/Valetudo/commit/56b0bf66da6a0d3cf08e20760bcbfdb4102f7d74)\n- **vendor.viomi**: Refactoring, fixes and tests [`7882db4`](https://github.com/Hypfer/Valetudo/commit/7882db41a1912aad028a4d48e60877abf6f6615a)\n- **ui**: remove redundant first confirmation dialog for fetching updates [`4d01657`](https://github.com/Hypfer/Valetudo/commit/4d01657e9cf196bda0b44fb3b051853c9fecdf6a)\n\n### Fixes\n\n- **miio**: Protect against invalid Wi-Fi passwords [`4c873b7`](https://github.com/Hypfer/Valetudo/commit/4c873b71827c9bf8830fc30b7a6d6ee4d1aae2ca)\n- **mqtt**: Make sure that we only refresh handles while we're connected [`67e66a0`](https://github.com/Hypfer/Valetudo/commit/67e66a0ee38007fbe9a2e9dabedecb525ac9f266)\n\n### Chores\n\n- minor cleanup [`79229f9`](https://github.com/Hypfer/Valetudo/commit/79229f99f690358488d7f97db1fbe8ee6f4711c5)\n- Add hint regarding maps and reboots to the updater [`69b0ae7`](https://github.com/Hypfer/Valetudo/commit/69b0ae7aafb9c3621f7c10d0b3ffbcbbc637bd6b)\n"
 }
