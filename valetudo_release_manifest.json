@@ -1,13 +1,13 @@
 {
-  "timestamp": "2022-11-12T08:36:28.298Z",
+  "timestamp": "2022-11-13T02:46:20.633Z",
   "version": "nightly",
   "sha256sums": {
-    "valetudo-armv7": "6022b004c095933b25f24dc76ff88a8c37fe1efc0ca83f7bb6d5c6347e015e4d",
-    "valetudo-armv7-lowmem": "d1cd6ba8787923c04a3d837ce908cc57f1a1fad1f9d332ce4ba6cef2d504d173",
-    "valetudo-aarch64": "191e1e00f595fef73cea99877da9dfa7921412170b502862839404cae4f5d0c3",
-    "valetudo-armv7.upx": "01e56486782f75f079b486a6338260d36d3ff6ad7138f305feec69d59508bb65",
-    "valetudo-armv7-lowmem.upx": "ab8470dcc39922145104b02d7e15eebb6fd7f753ec3987e384ad20bccf0a7107",
-    "valetudo-aarch64.upx": "df04060a200489c56a952dffd2fe35d6aec97ca9a6b3025dc57d881622c66d40"
+    "valetudo-armv7": "a6f315c22f4ca6f392166c42ab1171b5495c83080c8953212c27eb6320772244",
+    "valetudo-armv7-lowmem": "ddec0d859e11592081c4d4cdecba92083d379edbea1ec61c73ed7862cda81dc1",
+    "valetudo-aarch64": "b2f5b8c74446a2b2d6ac5155e3a7ec2ff2ffbee91e4dde4bfddf7e1455b02348",
+    "valetudo-armv7.upx": "f894a4d9dd7c1c98807866fe302ec73b972800bd0d899620e09c5c25a6d576e4",
+    "valetudo-armv7-lowmem.upx": "50527716556ce8e3861bbb21df7194e24d6547ecb05466ae7a602de53b6ffb73",
+    "valetudo-aarch64.upx": "11d463b86a3b5c0794ac5508783be60d160265fca13c01c366ff5e5db5eb12d7"
   },
-  "changelog": "## Valetudo nightly (2022-11-12T08:36:27.864Z)\n\n### Features\n\n- **vendor.3ir**: Introduce common 3irobotix map parser [`8f5013a`](https://github.com/Hypfer/Valetudo/commit/8f5013a743a50e168f725372dc9ddc82ec4a332c)\n- **vendor.viomi**: Track active segments [`56b0bf6`](https://github.com/Hypfer/Valetudo/commit/56b0bf66da6a0d3cf08e20760bcbfdb4102f7d74)\n- **vendor.viomi**: Refactoring, fixes and tests [`7882db4`](https://github.com/Hypfer/Valetudo/commit/7882db41a1912aad028a4d48e60877abf6f6615a)\n- **ui**: remove redundant first confirmation dialog for fetching updates [`4d01657`](https://github.com/Hypfer/Valetudo/commit/4d01657e9cf196bda0b44fb3b051853c9fecdf6a)\n\n### Fixes\n\n- **miio**: Protect against invalid Wi-Fi passwords [`4c873b7`](https://github.com/Hypfer/Valetudo/commit/4c873b71827c9bf8830fc30b7a6d6ee4d1aae2ca)\n- **mqtt**: Make sure that we only refresh handles while we're connected [`67e66a0`](https://github.com/Hypfer/Valetudo/commit/67e66a0ee38007fbe9a2e9dabedecb525ac9f266)\n\n### Chores\n\n- minor cleanup [`79229f9`](https://github.com/Hypfer/Valetudo/commit/79229f99f690358488d7f97db1fbe8ee6f4711c5)\n- Add hint regarding maps and reboots to the updater [`69b0ae7`](https://github.com/Hypfer/Valetudo/commit/69b0ae7aafb9c3621f7c10d0b3ffbcbbc637bd6b)\n"
+  "changelog": "## Valetudo nightly (2022-11-13T02:46:20.206Z)\n\n### Features\n\n- **vendor.viomi**: Add y_mopping quirk [`5ac847f`](https://github.com/Hypfer/Valetudo/commit/5ac847f683419b7da7065f1e4dcc1d7bb0904529)\n- **vendor.3ir**: Introduce common 3irobotix map parser [`8f5013a`](https://github.com/Hypfer/Valetudo/commit/8f5013a743a50e168f725372dc9ddc82ec4a332c)\n- **vendor.viomi**: Track active segments [`56b0bf6`](https://github.com/Hypfer/Valetudo/commit/56b0bf66da6a0d3cf08e20760bcbfdb4102f7d74)\n- **vendor.viomi**: Refactoring, fixes and tests [`7882db4`](https://github.com/Hypfer/Valetudo/commit/7882db41a1912aad028a4d48e60877abf6f6615a)\n- **ui**: remove redundant first confirmation dialog for fetching updates [`4d01657`](https://github.com/Hypfer/Valetudo/commit/4d01657e9cf196bda0b44fb3b051853c9fecdf6a)\n\n### Fixes\n\n- **miio**: Protect against invalid Wi-Fi passwords [`4c873b7`](https://github.com/Hypfer/Valetudo/commit/4c873b71827c9bf8830fc30b7a6d6ee4d1aae2ca)\n- **mqtt**: Make sure that we only refresh handles while we're connected [`67e66a0`](https://github.com/Hypfer/Valetudo/commit/67e66a0ee38007fbe9a2e9dabedecb525ac9f266)\n\n### Chores\n\n- **vendor.viomi**: Remove unused map parser [`0c7d757`](https://github.com/Hypfer/Valetudo/commit/0c7d75710a865326e015239375b9a4d03ad0f564)\n- minor cleanup [`79229f9`](https://github.com/Hypfer/Valetudo/commit/79229f99f690358488d7f97db1fbe8ee6f4711c5)\n- Add hint regarding maps and reboots to the updater [`69b0ae7`](https://github.com/Hypfer/Valetudo/commit/69b0ae7aafb9c3621f7c10d0b3ffbcbbc637bd6b)\n"
 }
