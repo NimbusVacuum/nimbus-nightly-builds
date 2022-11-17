@@ -1,4 +1,4 @@
-## Valetudo nightly (2022-11-16T02:43:15.203Z)
+## Valetudo nightly (2022-11-17T02:40:21.937Z)
 
 ### Features
 
@@ -10,10 +10,15 @@
 
 ### Fixes
 
+- **vendor.3ir**: Parse temporary maps [`f43a7ed`](https://github.com/Hypfer/Valetudo/commit/f43a7ed68c17cd9edcecd98396380c67e6d9f9f8)
 - **vendor.3ir**: Fix map parser going oom if uniqueMapId is all 0 [`b351686`](https://github.com/Hypfer/Valetudo/commit/b3516867c2530de1ac73a2e97cb768612670f721)
 - Add .catch() handler to previously unhandled promises [`db5aeca`](https://github.com/Hypfer/Valetudo/commit/db5aeca526feb7899de43a40d511d3a9b1fdec74)
 - **miio**: Protect against invalid Wi-Fi passwords [`4c873b7`](https://github.com/Hypfer/Valetudo/commit/4c873b71827c9bf8830fc30b7a6d6ee4d1aae2ca)
 - **mqtt**: Make sure that we only refresh handles while we're connected [`67e66a0`](https://github.com/Hypfer/Valetudo/commit/67e66a0ee38007fbe9a2e9dabedecb525ac9f266)
+
+### Refactoring
+
+- **vendor.3ir**: Minor cleanup [`a151080`](https://github.com/Hypfer/Valetudo/commit/a151080aa072f0d402c2e88830de8e564ff30fac)
 
 ### Chores
 
