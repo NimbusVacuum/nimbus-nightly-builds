@@ -1,7 +1,8 @@
-## Valetudo nightly (2022-11-17T02:40:21.937Z)
+## Valetudo nightly (2022-11-18T02:44:19.070Z)
 
 ### Features
 
+- **vendor.viomi**: Introduce ViomiOperationModeControlCapability [`d764438`](https://github.com/Hypfer/Valetudo/commit/d7644388e63d6cd740381f31c04362fdade7f6ad)
 - **vendor.viomi**: Add y_mopping quirk [`5ac847f`](https://github.com/Hypfer/Valetudo/commit/5ac847f683419b7da7065f1e4dcc1d7bb0904529)
 - **vendor.3ir**: Introduce common 3irobotix map parser [`8f5013a`](https://github.com/Hypfer/Valetudo/commit/8f5013a743a50e168f725372dc9ddc82ec4a332c)
 - **vendor.viomi**: Track active segments [`56b0bf6`](https://github.com/Hypfer/Valetudo/commit/56b0bf66da6a0d3cf08e20760bcbfdb4102f7d74)
@@ -10,6 +11,9 @@
 
 ### Fixes
 
+- **vendor.viomi**: Don't raise three events for a single error [`f143319`](https://github.com/Hypfer/Valetudo/commit/f14331978cd2fa5fbb23c53856102b598cc42ef5)
+- **ui**: Allow valid slashes in mqtt topic prefix [`1f06b86`](https://github.com/Hypfer/Valetudo/commit/1f06b862bea577c8c22a23243c02d26b8f90c92a)
+- **ui**: Fix occasional unexpected scrollbars [`bafdb4d`](https://github.com/Hypfer/Valetudo/commit/bafdb4d606d4f0d3d7d45147cba8570251460fe6)
 - **vendor.3ir**: Parse temporary maps [`f43a7ed`](https://github.com/Hypfer/Valetudo/commit/f43a7ed68c17cd9edcecd98396380c67e6d9f9f8)
 - **vendor.3ir**: Fix map parser going oom if uniqueMapId is all 0 [`b351686`](https://github.com/Hypfer/Valetudo/commit/b3516867c2530de1ac73a2e97cb768612670f721)
 - Add .catch() handler to previously unhandled promises [`db5aeca`](https://github.com/Hypfer/Valetudo/commit/db5aeca526feb7899de43a40d511d3a9b1fdec74)
