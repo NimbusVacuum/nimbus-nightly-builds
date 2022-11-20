@@ -1,4 +1,4 @@
-## Valetudo nightly (2022-11-19T02:39:04.149Z)
+## Valetudo nightly (2022-11-20T02:44:04.157Z)
 
 ### Features
 
@@ -11,6 +11,7 @@
 
 ### Fixes
 
+- **vendor.3ir**: Fix segment name block parsing [`99897a5`](https://github.com/Hypfer/Valetudo/commit/99897a5f8c6f1a8cbb1d2695ecd335f2e7db5d0d)
 - **vendor.viomi**: Don't raise three events for a single error [`f143319`](https://github.com/Hypfer/Valetudo/commit/f14331978cd2fa5fbb23c53856102b598cc42ef5)
 - **ui**: Allow valid slashes in mqtt topic prefix [`1f06b86`](https://github.com/Hypfer/Valetudo/commit/1f06b862bea577c8c22a23243c02d26b8f90c92a)
 - **ui**: Fix occasional unexpected scrollbars [`bafdb4d`](https://github.com/Hypfer/Valetudo/commit/bafdb4d606d4f0d3d7d45147cba8570251460fe6)
