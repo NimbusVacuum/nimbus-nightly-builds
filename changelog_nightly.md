@@ -1,4 +1,4 @@
-## Valetudo nightly (2022-11-25T02:37:26.713Z)
+## Valetudo nightly (2022-11-26T02:34:46.751Z)
 
 ### Features
 
@@ -11,6 +11,7 @@
 
 ### Fixes
 
+- **vendor.dreame**: Remove broken operation mode control for W10 and reintroduce mop only quirk [`8b8d7a2`](https://github.com/Hypfer/Valetudo/commit/8b8d7a27b922f0e39fdfd0a52ba082f1ca11820e)
 - **vendor.3ir**: Fix segment name block parsing [`99897a5`](https://github.com/Hypfer/Valetudo/commit/99897a5f8c6f1a8cbb1d2695ecd335f2e7db5d0d)
 - **vendor.viomi**: Don't raise three events for a single error [`f143319`](https://github.com/Hypfer/Valetudo/commit/f14331978cd2fa5fbb23c53856102b598cc42ef5)
 - **ui**: Allow valid slashes in mqtt topic prefix [`1f06b86`](https://github.com/Hypfer/Valetudo/commit/1f06b862bea577c8c22a23243c02d26b8f90c92a)
