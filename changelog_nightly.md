@@ -1,7 +1,8 @@
-## Valetudo nightly (2022-11-28T02:36:27.955Z)
+## Valetudo nightly (2022-11-29T02:35:34.704Z)
 
 ### Features
 
+- **vendor.dreame**: D10S Pro [`0939cbd`](https://github.com/Hypfer/Valetudo/commit/0939cbdcf28bb84581b93507c997c5a24ac9bbaa)
 - **vendor.viomi**: Introduce ViomiOperationModeControlCapability [`d764438`](https://github.com/Hypfer/Valetudo/commit/d7644388e63d6cd740381f31c04362fdade7f6ad)
 - **vendor.viomi**: Add y_mopping quirk [`5ac847f`](https://github.com/Hypfer/Valetudo/commit/5ac847f683419b7da7065f1e4dcc1d7bb0904529)
 - **vendor.3ir**: Introduce common 3irobotix map parser [`8f5013a`](https://github.com/Hypfer/Valetudo/commit/8f5013a743a50e168f725372dc9ddc82ec4a332c)
