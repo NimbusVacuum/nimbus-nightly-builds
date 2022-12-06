@@ -1,7 +1,8 @@
-## Valetudo nightly (2022-12-05T02:29:48.333Z)
+## Valetudo nightly (2022-12-06T02:30:50.473Z)
 
 ### Features
 
+- **vendor.roborock**: Add implementations for Roborock S7 auto empty dock [`39207e8`](https://github.com/Hypfer/Valetudo/commit/39207e8b76238d2483fd4592cd6b87db9e00c6b4)
 - **vendor.dreame**: D10S Pro [`0939cbd`](https://github.com/Hypfer/Valetudo/commit/0939cbdcf28bb84581b93507c997c5a24ac9bbaa)
 - **vendor.viomi**: Introduce ViomiOperationModeControlCapability [`d764438`](https://github.com/Hypfer/Valetudo/commit/d7644388e63d6cd740381f31c04362fdade7f6ad)
 - **vendor.viomi**: Add y_mopping quirk [`5ac847f`](https://github.com/Hypfer/Valetudo/commit/5ac847f683419b7da7065f1e4dcc1d7bb0904529)
