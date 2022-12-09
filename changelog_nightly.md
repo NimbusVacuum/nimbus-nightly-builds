@@ -1,4 +1,4 @@
-## Valetudo nightly (2022-12-08T02:31:55.910Z)
+## Valetudo nightly (2022-12-09T02:31:57.789Z)
 
 ### Features
 
@@ -13,6 +13,7 @@
 
 ### Fixes
 
+- **updater**: Better error message logging on http errors [`b6e7820`](https://github.com/Hypfer/Valetudo/commit/b6e78206a7f4a0542328a4fc25a6ffec1387c5a7)
 - **vendor.dreame**: Remove broken operation mode control for W10 and reintroduce mop only quirk [`8b8d7a2`](https://github.com/Hypfer/Valetudo/commit/8b8d7a27b922f0e39fdfd0a52ba082f1ca11820e)
 - **vendor.3ir**: Fix segment name block parsing [`99897a5`](https://github.com/Hypfer/Valetudo/commit/99897a5f8c6f1a8cbb1d2695ecd335f2e7db5d0d)
 - **vendor.viomi**: Don't raise three events for a single error [`f143319`](https://github.com/Hypfer/Valetudo/commit/f14331978cd2fa5fbb23c53856102b598cc42ef5)
