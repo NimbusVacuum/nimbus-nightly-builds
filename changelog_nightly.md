@@ -1,4 +1,4 @@
-## Valetudo nightly (2022-12-12T02:32:58.518Z)
+## Valetudo nightly (2022-12-13T02:36:22.849Z)
 
 ### Features
 
@@ -13,6 +13,7 @@
 
 ### Fixes
 
+- **ui**: Remove confusing state timestamp from NTPConnectivity [`692085e`](https://github.com/Hypfer/Valetudo/commit/692085e10bdf7d533a38c5f7e691fcfdac2e712d)
 - **updater**: Better error message logging on http errors [`b6e7820`](https://github.com/Hypfer/Valetudo/commit/b6e78206a7f4a0542328a4fc25a6ffec1387c5a7)
 - **vendor.dreame**: Remove broken operation mode control for W10 and reintroduce mop only quirk [`8b8d7a2`](https://github.com/Hypfer/Valetudo/commit/8b8d7a27b922f0e39fdfd0a52ba082f1ca11820e)
 - **vendor.3ir**: Fix segment name block parsing [`99897a5`](https://github.com/Hypfer/Valetudo/commit/99897a5f8c6f1a8cbb1d2695ecd335f2e7db5d0d)
