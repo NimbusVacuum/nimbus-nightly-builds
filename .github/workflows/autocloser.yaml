@@ -1,0 +1,13 @@
+name: Autocloser
+on: [pull_request]
+jobs:
+  autoclose:
+    runs-on: ubuntu-latest
+    steps:
+    - name: Autoclose all PRs
+      if: ${{ github.actor != 'dependabot[bot]' }}
+      uses: roots/issue-closer-action@v1.1
+      with:
+        repo-token: ${{ secrets.GITHUB_TOKEN }}
+        pr-close-message: "Your pull request has been automatically closed because this repository does not accept pull requests."
+        pr-pattern: "(?!)"
