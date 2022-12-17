@@ -1,5 +1,5 @@
 {
-  "timestamp": "2022-12-16T02:54:39.070Z",
+  "timestamp": "2022-12-17T02:35:42.241Z",
   "version": "nightly",
   "sha256sums": {
     "nimbus-armv7": "7b4d98fdfc41d8c928338fe32ebad1454e42d2d0ab3956b665e71be0397d0238",
@@ -9,5 +9,5 @@
     "nimbus-armv7-lowmem.upx": "c9a3ccefc0325628371b6eda081b364ed6cd7cbc10f7c4e85c67217ea03d6488",
     "nimbus-aarch64.upx": "1f478a912f0d8fa14eb74628a93e279f922c91841a594adfbf53c8ee2e6f5382"
   },
-  "changelog": "## Nimbus nightly (2022-12-16T02:54:38.517Z)\n\n### Chores\n\n- **deps**: bump loader-utils from 2.0.2 to 2.0.4 [`1aee6f7`](https://github.com/NimbusVacuum/Nimbus/commit/1aee6f7f03633261c472c11ea604b5aaec927000)\n- **deps**: bump nokogiri from 1.13.9 to 1.13.10 in /docs [`8d73c91`](https://github.com/NimbusVacuum/Nimbus/commit/8d73c91f6526691144df45486a3b8dcd9b62fa91)\n"
+  "changelog": "## Nimbus nightly (2022-12-17T02:35:41.814Z)\n\n### Chores\n\n- **deps**: bump loader-utils from 2.0.2 to 2.0.4 [`1aee6f7`](https://github.com/NimbusVacuum/Nimbus/commit/1aee6f7f03633261c472c11ea604b5aaec927000)\n- **deps**: bump nokogiri from 1.13.9 to 1.13.10 in /docs [`8d73c91`](https://github.com/NimbusVacuum/Nimbus/commit/8d73c91f6526691144df45486a3b8dcd9b62fa91)\n"
 }
