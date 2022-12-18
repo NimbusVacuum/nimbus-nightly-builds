@@ -1,13 +1,13 @@
 {
-  "timestamp": "2022-12-17T02:35:42.241Z",
+  "timestamp": "2022-12-18T02:38:39.219Z",
   "version": "nightly",
   "sha256sums": {
-    "nimbus-armv7": "7b4d98fdfc41d8c928338fe32ebad1454e42d2d0ab3956b665e71be0397d0238",
-    "nimbus-armv7-lowmem": "58ad30c7f4d1b6086494de9dbee69afa5b6588d9e532175d0c2bc94fefe20f3a",
-    "nimbus-aarch64": "13eca642da96c022257b501aaee4da9847e470d9ae9c59af63f930da21ebd3c8",
-    "nimbus-armv7.upx": "9b7b417d458fb2b282f8d75eb2e2a48e8b7f94e86acb1cf8b56caf9aeaafa40d",
-    "nimbus-armv7-lowmem.upx": "c9a3ccefc0325628371b6eda081b364ed6cd7cbc10f7c4e85c67217ea03d6488",
-    "nimbus-aarch64.upx": "1f478a912f0d8fa14eb74628a93e279f922c91841a594adfbf53c8ee2e6f5382"
+    "nimbus-armv7": "2a9fa8adf84f2568f5eb1a407ad58fa7227b4b3601f4d96fec5da3ca4f3101e5",
+    "nimbus-armv7-lowmem": "855a4233d9281b2cecd0885905eac959aa43ba88515dcef57bcf014d9a003abb",
+    "nimbus-aarch64": "5990c794358cd260d3e81c2a8ccf4cab59ed5c43fefc44d88339d71a531f4e54",
+    "nimbus-armv7.upx": "90def53e33bc7340984cac8e2d4df0b6c1dd2a23d73c9fa896aa78d3254fe578",
+    "nimbus-armv7-lowmem.upx": "d5eda870ca0bce106e3d25e9fb9987b87d2b18a1d63336dade2f5bd3fe7d8220",
+    "nimbus-aarch64.upx": "2d311d26f150b8286b6bd23ba0a168a61e8b6eb8fa5a65021c42759c7e921fab"
   },
-  "changelog": "## Nimbus nightly (2022-12-17T02:35:41.814Z)\n\n### Chores\n\n- **deps**: bump loader-utils from 2.0.2 to 2.0.4 [`1aee6f7`](https://github.com/NimbusVacuum/Nimbus/commit/1aee6f7f03633261c472c11ea604b5aaec927000)\n- **deps**: bump nokogiri from 1.13.9 to 1.13.10 in /docs [`8d73c91`](https://github.com/NimbusVacuum/Nimbus/commit/8d73c91f6526691144df45486a3b8dcd9b62fa91)\n"
+  "changelog": "## Nimbus nightly (2022-12-18T02:38:38.766Z)\n\n### Chores\n\n- **deps**: bump loader-utils from 2.0.2 to 2.0.4 [`1aee6f7`](https://github.com/NimbusVacuum/Nimbus/commit/1aee6f7f03633261c472c11ea604b5aaec927000)\n- **deps**: bump nokogiri from 1.13.9 to 1.13.10 in /docs [`8d73c91`](https://github.com/NimbusVacuum/Nimbus/commit/8d73c91f6526691144df45486a3b8dcd9b62fa91)\n"
 }
